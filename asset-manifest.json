@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/shoplane-react-redux-site/static/css/main.2c8f287f.chunk.css",
+    "main.js": "/shoplane-react-redux-site/static/js/main.7c1a644d.chunk.js",
+    "main.js.map": "/shoplane-react-redux-site/static/js/main.7c1a644d.chunk.js.map",
+    "runtime-main.js": "/shoplane-react-redux-site/static/js/runtime-main.322e58bf.js",
+    "runtime-main.js.map": "/shoplane-react-redux-site/static/js/runtime-main.322e58bf.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/shoplane-react-redux-site/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.190c6e90.chunk.js": "/shoplane-react-redux-site/static/js/2.190c6e90.chunk.js",
+    "static/js/2.190c6e90.chunk.js.map": "/shoplane-react-redux-site/static/js/2.190c6e90.chunk.js.map",
+    "static/js/3.78ff2a28.chunk.js": "/shoplane-react-redux-site/static/js/3.78ff2a28.chunk.js",
+    "static/js/3.78ff2a28.chunk.js.map": "/shoplane-react-redux-site/static/js/3.78ff2a28.chunk.js.map",
+    "index.html": "/shoplane-react-redux-site/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/shoplane-react-redux-site/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.2c8f287f.chunk.css.map": "/shoplane-react-redux-site/static/css/main.2c8f287f.chunk.css.map",
+    "static/js/2.190c6e90.chunk.js.LICENSE.txt": "/shoplane-react-redux-site/static/js/2.190c6e90.chunk.js.LICENSE.txt",
+    "static/media/c1.9007d84c.png": "/shoplane-react-redux-site/static/media/c1.9007d84c.png",
+    "static/media/c2.88dc38c8.png": "/shoplane-react-redux-site/static/media/c2.88dc38c8.png",
+    "static/media/c3.d28aba27.png": "/shoplane-react-redux-site/static/media/c3.d28aba27.png",
+    "static/media/c4.c2ca730c.png": "/shoplane-react-redux-site/static/media/c4.c2ca730c.png",
+    "static/media/dummy.30484205.png": "/shoplane-react-redux-site/static/media/dummy.30484205.png",
+    "static/media/self.96cbc2ca.jpg": "/shoplane-react-redux-site/static/media/self.96cbc2ca.jpg",
+    "static/media/white-tick.5177609a.png": "/shoplane-react-redux-site/static/media/white-tick.5177609a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322e58bf.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.190c6e90.chunk.js",
+    "static/css/main.2c8f287f.chunk.css",
+    "static/js/main.7c1a644d.chunk.js"
+  ]
+}
